@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Player
+Bundle-SymbolicName: com.mmg.chess.player
+Bundle-Version: 1.0.0.qualifier
+Import-Package: com.mmg.chess.core.model,
+ com.mmg.chess.core.model.piece
+Bundle-Vendor: MMG
+Automatic-Module-Name: com.mmg.chess.player
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Export-Package: com.mmg.chess.player
